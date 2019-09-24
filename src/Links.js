@@ -18,7 +18,7 @@ class Links extends Component {
                     <div className="row-4">
                         <p>Countdown to Holiday</p>
                         <p>Medical advice / Letter from doctor</p>
-                        <p>Organsing and Carrying Medications</p>
+                        <p>Organising and Carrying Medications</p>
                         <p>Equipment</p>
                         <p>Special Arrangements for travelling to and from Holiday</p>
 
