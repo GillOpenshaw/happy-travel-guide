@@ -16,23 +16,23 @@ class App extends Component {
 
         <div className="row">
 
-          <div className="col">
+          <div className="col-12">
             <Header />
           </div>
 
-          <div className="col">
+          <div className="col-12">
             <Introduction />
           </div>
 
-          <div className="col">
+          <div className="col-12">
             <Important />
           </div>
 
-          <div className="col">
+          <div className="col-12">
             <Links />
           </div>
 
-          <div className="col">
+          <div className="col-12">
             <Form />
           </div>
 
